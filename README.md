@@ -26,7 +26,7 @@ My nickname is Roupse, I am a programmer from the **Russian Federation**, curren
 ```
 <br><br>
 
-##If you need to get in touch with me quickly, text me on <a href="https://t.me/RoupseTrue" target="_blank">Telegram</a>.
+## If you need to get in touch with me quickly, text me on <a href="https://t.me/RoupseTrue" target="_blank">Telegram</a>.
 
 <br><br><br>
 
