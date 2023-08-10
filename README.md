@@ -19,7 +19,10 @@ My nickname is Roupse, I am a programmer from the **Russian Federation**, curren
 <br><br>
 
 ```JSON
-  "text": "I don't know what to say about myself anymore"
+  "My nick": "Roupse",
+  "I am from": "Russia",
+  "City of": "Yekaterenburg",
+  "How long have I been in IT": "4 years"
 ```
 
 <br><br><br>
