@@ -1,7 +1,7 @@
 # 😄 Welcome to my GitHub!
 
 ### Briefly about myself:
-My name is Kirill, I am a programmer from the **Russian Federation**, currently living in the city of **Yekaterenburg**. Back in high school I tried myself in many IT-directions. Most of all I liked and still like web development and game development.
+My name is Cyril, I am a programmer from the **Russian Federation**, currently living in the city of **Yekaterenburg**. Back in high school I tried myself in many IT-directions. Most of all I liked and still like web development and game development.
 
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe4%2F26%2F70%2Fe426702edf874b181aced1e2fa5c6cde.gif&f=1&nofb=1&ipt=b269542e2976b8434572f7aac2729f13a9680886f5aa8cc7f5125e9fa2dbe710&ipo=images" />
