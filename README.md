@@ -1,7 +1,8 @@
 # 😄 Welcome to my GitHub!
 
 ### Briefly about myself:
-My nickname is Roupse, I am a programmer from the **Russian Federation**, currently living in the city of Yekaterenburg. Back in high school I tried myself in many IT-directions. Most of all I liked and still like web development and game development.
+My nickname is Roupse, I am a programmer from the **Russian Federation**, currently living in the city of Yekaterenburg. Back in high school I tried myself in many IT-directions. Most of all I liked and still like web development and game development. If you need to get in touch with me quickly, text me on <a href="https://t.me/RoupseTrue" target="_blank">Telegram</a>.
+
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe4%2F26%2F70%2Fe426702edf874b181aced1e2fa5c6cde.gif&f=1&nofb=1&ipt=b269542e2976b8434572f7aac2729f13a9680886f5aa8cc7f5125e9fa2dbe710&ipo=images" />
 
@@ -15,18 +16,6 @@ My nickname is Roupse, I am a programmer from the **Russian Federation**, curren
 <a href="https://unity.com"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetdrawings.com%2Ffree-icon-bw%2Fassassins-creed-icon-11.png&f=1&nofb=1&ipt=2d0b82996bc254c011dd6d7e5f0793cada37e6538e82e2a9bedfbe764474fe55&ipo=images" width="53" height="53" alt="Unity" /></a> <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.cdnlogo.com%2Flogos%2Fc%2F68%2Fc-sharp-800x800.png&f=1&nofb=1&ipt=5433e4d148a4cf99e2b73ffa6aedea6c7ddd0ffd41f1e0a7a65e43c2573762a3&ipo=images" width="53" height="53" alt="C sharp" /></a> <a href="https://godotengine.org/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F1495%2FPNG%2F512%2Fgodot_103035.png&f=1&nofb=1&ipt=722ccb9653e5576b1844e2c0005a30231a25918a83fe1eedc4f5b4a75db53a8c&ipo=images" width="53" height="53" alt="Godot Engin 4" /></a> <a href="https://git-scm.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgit-icon-logo-png-transparent.png&f=1&nofb=1&ipt=d252b1c1b430ae7f5c336e6287c2033a7b0bbc4d640f562e4875125cb29b2eee&ipo=images" width="53" height="53" alt="Godot Engin 4" /></a>  
 
 </p>
-
-<br><br>
-
-```JSON
-  "My nick": "Roupse",
-  "I am from": "Russia",
-  "City of": "Yekaterenburg",
-  "How long have I been in IT": "4 years"
-```
-<br><br>
-
-p.s. If you need to get in touch with me quickly, text me on <a href="https://t.me/RoupseTrue" target="_blank">Telegram</a>.
 
 <br><br><br>
 
