@@ -18,8 +18,6 @@ My nickname is Roupse, I am a programmer from the **Russian Federation**, curren
 
 <br><br><br>
 
-### ⚙️ GitHub statistics:
-
 <table>
   <tr>
     <td>
