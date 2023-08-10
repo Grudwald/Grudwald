@@ -13,7 +13,7 @@ My nickname is Roupse, I am a programmer from the **Russian Federation**, curren
 
 </p>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&f=1&nofb=1&ipt=d5711050066bd47c60400f3843cb7f1258a1af6cc9197753cc4ffa40926b849b&ipo=images" width="40" height="40" />
 
 ### ⚙️ GitHub statistics:
 
