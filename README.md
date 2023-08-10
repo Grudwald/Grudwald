@@ -16,6 +16,13 @@ My nickname is Roupse, I am a programmer from the **Russian Federation**, curren
 
 </p>
 
+<br><br>
+
+```JSON
+"My nickname": "Roupse"
+
+```
+
 <br><br><br>
 
 <table>
