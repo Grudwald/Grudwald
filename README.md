@@ -24,11 +24,16 @@ My nickname is Roupse, I am a programmer from the **Russian Federation**, curren
 
 </p>
 
-<br><br><br>
+<br><br>
 
+# 📊 Statistics
+
+### Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=Roupse&stroke=COLOR)
 
+<br>
 
+### GitHub
 <table>
   <tr>
     <td>
