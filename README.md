@@ -29,12 +29,12 @@ My nickname is Roupse, I am a programmer from the **Russian Federation**, curren
 # 📊 Statistics
 <br>
 
-### Codewars
+### Codewars:
 ![Codewars](https://github.r2v.ch/codewars?user=Roupse&stroke=COLOR)
 
 <br>
 
-### GitHub
+### GitHub:
 <table>
   <tr>
     <td>
