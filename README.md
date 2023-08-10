@@ -1,4 +1,4 @@
-# Good time of day 👋
+# Good time of day
 
-#### About me:
-My name Kirill, I am web developer from Russia
+### Briefly about myself.:
+My name is Kirill, I am a web developer from Russia 🇷🇺. I've tried my hand at a lot of IT industries. 
