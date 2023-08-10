@@ -19,10 +19,10 @@ My nickname is Roupse, I am a programmer from the **Russian Federation**, curren
 
 <br>
 
-### For fast communication:
+### 📡 For fast communication:
 <p align="left">
 
-<a href="https://t.me/RoupseTrue" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F83%2FTelegram_2019_Logo.svg%2F1200px-Telegram_2019_Logo.svg.png&f=1&nofb=1&ipt=46e696f429959ec47b50d9c7315d929fc71e07e860faf4eda98a924b680e052c&ipo=images" width="50" height="50" alt="telegram" /></a> <a href="https://discord.com/users/roupse" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.logomyway.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fdiscord-mascot.png&f=1&nofb=1&ipt=42e1f9284347ac5522ce1a43d2e39f2b92a72258d8ccc32692622331c3dc2379&ipo=images" width="50" height="50" alt="discord" /></a>
+<a href="https://t.me/RoupseTrue" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F83%2FTelegram_2019_Logo.svg%2F1200px-Telegram_2019_Logo.svg.png&f=1&nofb=1&ipt=46e696f429959ec47b50d9c7315d929fc71e07e860faf4eda98a924b680e052c&ipo=images" width="50" height="50" alt="telegram" /></a> <a href="https://discord.com/users/roupse" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2017%2F11%2Fdiscord-logo-7-1.png&f=1&nofb=1&ipt=80e54f6220e09607047314dc7ada2982ec4135e08105e6d1b7c03502a0f0198e&ipo=images" width="50" height="50" alt="discord" /></a>
 
 </p>
 
