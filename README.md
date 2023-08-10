@@ -5,8 +5,12 @@ My nickname is Roupse, I am a programmer from the **Russian Federation**, curren
 
 
 
-### 💻 Tech & Tools:
-
+### 🛠 Tech & Tools:
+<p align="left">
+ICON ICON ICON ICON ICON 
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/golang.svg" width="36" height="36" alt="Golang" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+                    </p>
 
 ### ⚙️ GitHub statistics:
 
