@@ -10,20 +10,19 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
 
 ```JSON
 {
-  "Programming languages": [
+  "Languages": {
     "Golang",
     "Python",
     "JavaScript"
-  ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d"
+    "С#"
   },
-  "string": "Hello World"
+
+  "Technology": {
+      "Gin Gonic",
+      "Unity Engine",
+      "Godot Engine"
+    }
+   
 }
 ```
 
