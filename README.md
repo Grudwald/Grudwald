@@ -11,9 +11,9 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
 ```JSON
 {
   "Programming languages": [
-    Golang,
-    Python,
-    JavaScript
+    "Golang",
+    "Python",
+    "JavaScript"
   ],
   "boolean": true,
   "color": "gold",
