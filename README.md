@@ -1,4 +1,4 @@
-# 🤠 Welcome to my page!
+# 👋 Welcome to my page!
 
 ### Briefly about myself:
 My name is Nekolay, I am a programmer from the **Russian Federation**, currently living in the city of **Yekaterenburg**. Back in high school I tried myself in many IT-directions. Most of all I liked and still like web development and game development.
@@ -10,7 +10,7 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
     "Golang",
     "Python",
     "JavaScript"
-    "С#",
+    "C Sharp",
     "SQL",
     "JSON / YAML"
   },
@@ -22,7 +22,7 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
       "Git / GitGub"
   },
 
-  "DBMS": {
+  "Database management system": {
       "SQLite",
       "MongoDB",
       "Neo4j"
@@ -33,7 +33,6 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
 
 <br><br><br>
 
-### 📊 GitHub statistics
 <table>
   <tr>
     <td>
