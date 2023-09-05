@@ -20,7 +20,7 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
       "Unity Engine",
       "Godot Engine",
       "Git / GitGub"
-    },
+  },
 
   "DBMS": {
       "SQLite",
