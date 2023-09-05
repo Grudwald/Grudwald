@@ -6,7 +6,7 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
 ```JSON
 {
 
-  "Languages": {
+  "LANGUAGES": {
     "Golang",
     "Python",
     "JavaScript"
@@ -15,14 +15,14 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
     "JSON / YAML"
   },
 
-  "Technologies": {
+  "TECHNOLOGIES": {
       "Gin Gonic",
       "Unity Engine",
       "Godot Engine",
       "Git / GitGub"
   },
 
-  "Database management system": {
+  "DATABASE MANAGEMENT SYSTEM": {
       "SQLite",
       "MongoDB",
       "Neo4j"
