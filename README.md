@@ -9,14 +9,13 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
 <br><br>
 
 ```JSON
-{
-
   "Languages": {
     "Golang",
     "Python",
     "JavaScript"
     "С#",
-    "SQL"
+    "SQL",
+    "JSON / YAML"
   },
 
   "Technologies": {
@@ -31,8 +30,6 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
       "MongoDB",
       "Neo4j"
   }
-   
-}
 ```
 
 <br><br><br>
