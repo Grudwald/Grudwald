@@ -10,18 +10,27 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
 
 ```JSON
 {
+
   "Languages": {
     "Golang",
     "Python",
     "JavaScript"
-    "С#"
+    "С#",
+    "SQL"
   },
 
-  "Technology": {
+  "Technologies": {
       "Gin Gonic",
       "Unity Engine",
-      "Godot Engine"
-    }
+      "Godot Engine",
+      "Git / GitGub"
+    },
+
+  "DBMS": {
+      "SQLite",
+      "MongoDB",
+      "Neo4j"
+  }
    
 }
 ```
