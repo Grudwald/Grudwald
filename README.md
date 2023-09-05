@@ -27,7 +27,6 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
 <br><br><br>
 
 ### 📊 GitHub statistics
-<br>
 <table>
   <tr>
     <td>
