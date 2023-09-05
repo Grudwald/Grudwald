@@ -26,15 +26,8 @@ My name is Nekolay, I am a programmer from the **Russian Federation**, currently
 
 <br><br><br>
 
-# 📊 Statistics
+# 📊 GitHub statistics
 <br>
-
-### Codewars:
-![Codewars](https://github.r2v.ch/codewars?user=Roupse&stroke=COLOR)
-
-<br>
-
-### GitHub:
 <table>
   <tr>
     <td>
