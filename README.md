@@ -15,12 +15,14 @@
     YAML
 
 
+
   ТЕХНОЛОГИИ:
 
     GIN,
     Unity,
     Godot,
     GIT
+
 
 
   СУБД:
