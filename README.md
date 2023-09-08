@@ -2,32 +2,6 @@
 
 Меня зовут Кирилл, я программист из **РФ**, в настоящее время живу в городе **Екатеринбург**. Еще с пятого класса я пробовал себя во многих IT-направлениях. Больше всего мне нравились и посей день нравятся **веб-разработка** и **разработка игр**.
 
-```JSON
-
-  "ЯЗЫКИ": {
-    "Golang",
-    "Python",
-    "JavaScript",
-    "C Sharp",
-    "SQL",
-    "JSON / YAML"
-  },
-
-  "ТЕХНОЛОГИИ": {
-      "Gin Gonic",
-      "Unity Engine",
-      "Godot Engine",
-      "Git / GitGub"
-  },
-
-  "СУБД": {
-      "SQLite",
-      "MongoDB",
-      "Neo4j"
-  }
-
-```
-
 ```YAML
 
   ЯЗЫКИ:
@@ -39,18 +13,16 @@
     JSON,
     YAML
 
-  "ТЕХНОЛОГИИ": {
-      "Gin Gonic",
-      "Unity Engine",
-      "Godot Engine",
-      "Git / GitGub"
-  },
+  ТЕХНОЛОГИИ:
+    GIN,
+    Unity,
+    Godot,
+    GIT
 
-  "СУБД": {
-      "SQLite",
-      "MongoDB",
-      "Neo4j"
-  }
+СУБД:
+    SQLite,
+    MongoDB,
+    Neo4j,
 
 ```
 
