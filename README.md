@@ -8,7 +8,7 @@
     Golang,
     Python,
     JavaScript,
-    C Sharp,
+    C-Sharp,
     SQL,
     JSON,
     YAML
