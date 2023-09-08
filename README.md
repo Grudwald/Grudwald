@@ -1,11 +1,11 @@
 # 👋 Welcome to my page!
 
 ### Briefly about myself:
-My name is Nikolay, I am a programmer from the **Russian Federation**, currently living in the city of **Yekaterenburg**. Back in high school I tried myself in many IT-directions. Most of all I liked and still like **web development** and **game development**.
+Меня зовут Кирилл, я программист из **РФ**, в настоящее время живу в городе **Екатеринбург**. Еще с пятого класса я пробовал себя во многих IT-направлениях. Больше всего мне нравились и посей день нравятся **веб-разработка** и **разработка игр**.
 
 ```JSON
 
-  "LANGUAGES": {
+  "ЯЗЫКИ": {
     "Golang",
     "Python",
     "JavaScript"
@@ -14,14 +14,14 @@ My name is Nikolay, I am a programmer from the **Russian Federation**, currently
     "JSON / YAML"
   },
 
-  "TECHNOLOGIES": {
+  "ТЕХНОЛОГИИ": {
       "Gin Gonic",
       "Unity Engine",
       "Godot Engine",
       "Git / GitGub"
   },
 
-  "DATABASE MANAGEMENT SYSTEM": {
+  "СУБД": {
       "SQLite",
       "MongoDB",
       "Neo4j"
