@@ -7,11 +7,37 @@
   "ЯЗЫКИ": {
     "Golang",
     "Python",
-    "JavaScript"
+    "JavaScript",
     "C Sharp",
     "SQL",
     "JSON / YAML"
   },
+
+  "ТЕХНОЛОГИИ": {
+      "Gin Gonic",
+      "Unity Engine",
+      "Godot Engine",
+      "Git / GitGub"
+  },
+
+  "СУБД": {
+      "SQLite",
+      "MongoDB",
+      "Neo4j"
+  }
+
+```
+
+```YAML
+
+  ЯЗЫКИ:
+    Golang,
+    Python,
+    JavaScript,
+    C#,
+    SQL,
+    JSON,
+    YAML
 
   "ТЕХНОЛОГИИ": {
       "Gin Gonic",
