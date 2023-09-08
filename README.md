@@ -14,10 +14,10 @@
     YAML
 
   ТЕХНОЛОГИИ:
-    GIN,
+    Gin,
     Unity,
     Godot,
-    GIT
+    Git
 
   СУБД:
     SQLite,
