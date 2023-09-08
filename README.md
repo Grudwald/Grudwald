@@ -5,6 +5,7 @@
 ```YAML
 
   ЯЗЫКИ:
+
     Golang,
     Python,
     JavaScript,
@@ -13,13 +14,17 @@
     JSON,
     YAML
 
+
   ТЕХНОЛОГИИ:
+
     GIN,
     Unity,
     Godot,
     GIT
 
-СУБД:
+
+  СУБД:
+
     SQLite,
     MongoDB,
     Neo4j,
