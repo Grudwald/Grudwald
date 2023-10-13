@@ -9,6 +9,7 @@
     Python,
     JavaScript,
     C-Sharp,
+    HTML&CSS,
     SQL,
     JSON,
     YAML
