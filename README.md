@@ -23,7 +23,7 @@
   СУБД:
     SQLite,
     MongoDB,
-    Neo4j,
+    Neo4j
 
 ```
 
