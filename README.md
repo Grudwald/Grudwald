@@ -18,7 +18,8 @@
     Gin,
     Unity,
     Godot,
-    Git
+    Git,
+    Vue 3
 
   СУБД:
     SQLite,
