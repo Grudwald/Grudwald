@@ -1,6 +1,6 @@
 # 🤠 Briefly about me
 
-My name is Cyril, I am a programmer from **Russia**, currently living in the city of **Ekaterinburg**. Since the fifth grade I tried myself in many IT-directions. Most of all I liked and still like **web development** and **game development**.
+My name is Nicholas, I am a programmer from **Russia**, currently living in the city of **Ekaterinburg**. Since the fifth grade I tried myself in many IT-directions. Most of all I liked and still like **web development** and **game development**.
 
 ```YAML
 
