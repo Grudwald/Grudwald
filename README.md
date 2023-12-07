@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roupse) ### [Написать мне в телеграм](https://t.me/roupse_tg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roupse)
 
 <br>
 
