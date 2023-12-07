@@ -1,10 +1,10 @@
-# 🤠 Кратко обо мне
+# 🤠 Briefly about me
 
-Меня зовут Кирилл, я программист из **РФ**, в настоящее время живу в городе **Екатеринбург**. Еще с пятого класса я пробовал себя во многих IT-направлениях. Больше всего мне нравились и посей день нравятся **веб-разработка** и **разработка игр**.
+My name is Cyril, I am a programmer from **Russia**, currently living in the city of **Ekaterinburg**. Since the fifth grade I tried myself in many IT-directions. Most of all I liked and still like **web development** and **game development**.
 
 ```YAML
 
-  ЯЗЫКИ:
+  LANGUAGES:
     Golang,
     Python,
     JavaScript,
@@ -14,14 +14,14 @@
     JSON,
     YAML
 
-  ТЕХНОЛОГИИ:
+  TECHNOLOGIES:
     Gin,
     Unity,
     Godot,
     Git,
     Vue 3
 
-  СУБД:
+  DBMS:
     SQLite,
     MongoDB,
     Neo4j
