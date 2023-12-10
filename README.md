@@ -1,10 +1,10 @@
-# 🤠 Briefly about me
+# 🤠 Коротко обо мне
 
-My name is Nicholas, I am a programmer from **Russia**, currently living in the city of **Ekaterinburg**. Since the fifth grade I tried myself in many IT-directions. Most of all I liked and still like **web development** and **game development**.
+Меня зовут Кирилл, я программист из **России**, в данный момент живу в городе **Екатеринбург**. С пятого класса я пробовал себя во многих IT-направлениях. Больше всего мне нравились и нравятся **веб-разработка** и **разработка игр**.
 
 ```YAML
 
-  LANGUAGES:
+  ЯЗЫКИ:
     Golang,
     Python,
     JavaScript,
@@ -14,14 +14,14 @@ My name is Nicholas, I am a programmer from **Russia**, currently living in the 
     JSON,
     YAML
 
-  TECHNOLOGIES:
+  ТЕХНОЛОГИИ:
     Gin,
     Unity,
     Godot,
     Git,
     Vue 3
 
-  DBMS:
+  СУБД:
     SQLite,
     MongoDB,
     Neo4j
