@@ -1,6 +1,6 @@
 # Welcome to my page 🤠
 
-```JSON
+```YAML
 Languages and technologies:
 Golang - GIN,
 Python - REN'PY,
