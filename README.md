@@ -29,9 +29,9 @@
 ```
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roupse&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roupse&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roupse&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roupse&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roupse&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roupse&theme=github_dark)
 
 
     
