@@ -1,6 +1,16 @@
 # Welcome to my page 🤠
 
 ```
+Languages and technologies:
+Golang - GIN,
+Python - REN'PY,
+JavaScript - Vue JS 3,
+GTScript - Godot
+
+Database Management Systems:
+PostgreSQL,
+MySQL,
+Neo4jJ
 
 ```
 
