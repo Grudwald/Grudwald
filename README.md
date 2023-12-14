@@ -6,15 +6,14 @@
 
 ```YAML
 Languages and technologies:
-Golang - GIN,
-Python - REN'PY,
-JavaScript - Vue JS 3,
-GTScript - Godot
+Golang: GIN Gonic; net/http; Beego;
+Python: Ren`Py; Django; Flask;
+JavaScript: Vue Js 3; JQuery;
 
 Database Management Systems:
-PostgreSQL,
-MySQL,
-Neo4jJ
+PostgreSQL;
+MySQL;
+Neo4j;
 
 ```
 
