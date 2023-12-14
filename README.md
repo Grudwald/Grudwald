@@ -39,6 +39,12 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roupse)
+
+        
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roupse&theme=dark&background=000000)](https://git.io/streak-stats)
+
+    
+
+
 
 <br>
