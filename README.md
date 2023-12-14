@@ -29,10 +29,9 @@
 ```
 
 
-        
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roupse&theme=dark&background=000000)](https://git.io/streak-stats)
-
-https://github-readme-streak-stats.herokuapp.com/?user=roupse
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roupse&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roupse&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roupse&theme=default)
 
 
     
