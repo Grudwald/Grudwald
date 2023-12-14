@@ -1,6 +1,6 @@
 # Welcome to my page 🤠
 
-```
+```JSON
 Languages and technologies:
 Golang - GIN,
 Python - REN'PY,
