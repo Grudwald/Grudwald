@@ -4,7 +4,7 @@
 
 ### My skills are: 🧠
 
-```shell
+```html
 Languages and technologies:
 Golang: GIN Gonic; net/http; Beego;
 Python: Ren`Py; Django; Flask;
