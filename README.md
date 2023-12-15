@@ -1,3 +1,5 @@
+# Welcome to my about page 🤠
+
 ### My skills are: 🧠
 
 ```yaml
@@ -15,7 +17,7 @@ Neo4j;
 
 <br>
 
-### My statistics: 🛠
+### My statistics: 📊
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roupse&theme=github_dark)</div></center>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Roupse&theme=github_dark) 
