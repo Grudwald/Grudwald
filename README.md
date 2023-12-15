@@ -1,7 +1,3 @@
-# Welcome to my page 🤠
-
-<br>
-
 ### My skills are: 🧠
 
 ```yaml
