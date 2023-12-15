@@ -6,9 +6,9 @@
 
 ```yaml
 Languages and technologies:
-Golang - GIN Gonic, net/http, Beego,
-Python - RenPy, Django, Flask,
-JavaScript - Vue Js 3, JQuery,
+Golang: GIN Gonic, net/http, Beego,
+Python: RenPy, Django, Flask,
+JavaScript: Vue Js 3, JQuery,
 
 Database Management Systems:
 PostgreSQL,
