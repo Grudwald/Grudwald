@@ -5,12 +5,22 @@
 ### My skills are: 🧠
 
 ```yaml
-Age: 16
-Name: Joseph
-Country: Russia
-City: Saint-Petersburg
-Experience: 5-yers
-Profession: Web-Developer
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World"
+}
 ```
 
 <br>
