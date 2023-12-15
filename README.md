@@ -6,9 +6,10 @@
 
 ```yaml
 Age: 16
-Experience: 5 years
-Programming languages: Golang, Python, JavaScript, GDScript
-Frameworks and technologies: GIN Gonic, Bootstrap, Vue JS 3, Godot Engine
+Name: Joseph
+Country: Russia
+Experience: 5yers
+Profession: Web-Developer
 ```
 
 <br>
