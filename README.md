@@ -4,22 +4,22 @@
 
 ### My skills are: 🧠
 
-```yaml
+```JSON
 {
-  "Programming languages": [
+  "Languages and technologies": [
     Golang,
     Python,
-    JavaScript
+    JavaScript,
+    GDScript
   ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d"
+  "Golang": "GIN Gonic", "net/http", "Beego",
+  "Python": "Django", "REN`PY",
+  "JavaScript": "Vue JS 3",
+  "GDScript": "Godot Engine",
+  "DBMS": {
+    "MySQL": "PostgreSQL",
+    "Neo4j": "SQLite"
   },
-  "string": "Hello World"
 }
 ```
 
