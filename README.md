@@ -6,7 +6,6 @@
 
 ```JSON
 {
-
   "Languages and technologies": [
     "Golang",
     "Python",
@@ -23,7 +22,6 @@
     "MySQL": "PostgreSQL",
     "Neo4j": "SQLite"
   }
-
 }
 ```
 
