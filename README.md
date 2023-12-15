@@ -6,10 +6,10 @@
 
 ```yaml
 {
-  "array": [
-    1,
-    2,
-    3
+  "Programming languages": [
+    Golang,
+    Python,
+    JavaScript
   ],
   "boolean": true,
   "color": "gold",
