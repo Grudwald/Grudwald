@@ -9,7 +9,7 @@ Age: 16
 Name: Joseph
 Country: Russia
 City: Saint-Petersburg
-Experience: 5yers
+Experience: 5-yers
 Profession: Web-Developer
 ```
 
