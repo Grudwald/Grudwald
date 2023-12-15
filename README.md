@@ -7,10 +7,10 @@
 ```JSON
 {
   "Languages and technologies": [
-    Golang,
-    Python,
-    JavaScript,
-    GDScript
+    "Golang",
+    "Python",
+    "JavaScript",
+    "GDScript"
   ],
   "Golang": "GIN Gonic", "net/http", "Beego",
   "Python": "Django", "REN`PY",
@@ -19,7 +19,7 @@
   "DBMS": {
     "MySQL": "PostgreSQL",
     "Neo4j": "SQLite"
-  },
+  }
 }
 ```
 
