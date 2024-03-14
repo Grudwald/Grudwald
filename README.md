@@ -9,7 +9,7 @@
   "Languages and technologies": {
     "Golang": "GIN Gonic", "net/http", "Beego",
     "Python": "Django", "REN`PY",
-    ""Ruby: "Ruby On Rails",
+    "Ruby": "Ruby On Rails",
     "JavaScript": "Vue JS 3",
     "GDScript": "Godot Engine",
     "HTML&CSS": "Bootstrap"
