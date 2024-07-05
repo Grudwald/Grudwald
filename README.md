@@ -7,8 +7,7 @@
 
 ### Those are my stats: 📊
 ![Grudwald's Stats](https://github-readme-stats.vercel.app/api?username=Grudwald&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grudwald&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grudwald&theme=github_dark)
+![Grudwald's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grudwald&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 
