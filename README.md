@@ -6,8 +6,7 @@
 <br>
 
 ### Those are my stats: 📊
-![Grudwald's Stats](https://github-readme-stats.vercel.app/api?username=Grudwald&theme=bear&show_icons=true&hide_border=true&count_private=true)
-###
-![Grudwald's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grudwald&theme=bear&show_icons=true&hide_border=true&layout=compact)
+![](https://raw.githubusercontent.com/grudwald/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/grudwald/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
