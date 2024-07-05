@@ -5,7 +5,7 @@
 
 ### Those are my stats: 📊
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grudwald&theme=github_dark)</div></center>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grudwald&theme=github_dark)</div></center><br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grudwald&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grudwald&theme=github_dark)
 
