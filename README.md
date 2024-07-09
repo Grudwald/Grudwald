@@ -1,4 +1,3 @@
-<h3 align="center">Backend developer from Russia 🇷🇺</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grudwald" alt="grudwald" /></a> </p>
 
