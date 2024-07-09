@@ -2,11 +2,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grudwald" alt="grudwald" /></a> </p>
 
-- 🌱 Currently, I am: **I'm upgrading my Golang skills.**
+### About me:
 
-- 📝 I write regular articles on my blog [https://t.me/Grudwald_blog](https://t.me/Grudwald_blog)
+I started my journey in the IT industry at the age of 11 (I'm now 16) and have been tirelessly improving my skills ever since. In 5 years I have learned many languages and technologies including Python, C#, C, Bash, Lua, JavaScript and of course my favorite Golang.
 
-- 📫 How to reach me **grudwald@gmail.com**
+Currently, I am most interested in backend development and am constantly working to expand my knowledge and practical skills in this area. I am passionate about building efficient and reliable server-side applications that keep interactive products running smoothly.
+
+On my GitHub profile, you will find examples of my projects that demonstrate my skills with various technologies. I am always open to new learning and development opportunities, so feel free to contact me if you have interesting suggestions or ideas.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
