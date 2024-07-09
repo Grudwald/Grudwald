@@ -24,20 +24,17 @@ I would also like to invite you to join me on Telegram, where I share my thought
 </p>
 
 
----
-
-
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=grudwald&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grudwald&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=grudwald&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
