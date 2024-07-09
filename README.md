@@ -3,7 +3,7 @@
 
 <br>
 
-### About me: ✍️
+### ✍️ About me:
 
 I started my journey in the IT industry at the age of 11 (I'm now 16) and have been tirelessly improving my skills ever since. In 5 years I have learned many languages and technologies including Python, C#, C, Bash, Lua, JavaScript and of course my favorite Golang.
 
