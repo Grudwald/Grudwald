@@ -21,6 +21,6 @@ I would also like to invite you to join me on Telegram, where I share my thought
 
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=grudwald&show_icons=true&theme=vision-friendly-dark"> &nbsp;
-  <img width="380" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grudwald&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="380" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grudwald&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
