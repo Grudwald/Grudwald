@@ -10,7 +10,7 @@ Currently, I am most interested in backend development and am constantly working
 
 On my GitHub profile, you will find examples of my projects that demonstrate my skills with various technologies. I am always open to new learning and development opportunities, so feel free to contact me if you have interesting suggestions or ideas.
 
-I would also like to invite you to join me on Telegram, where I share my thoughts, victories and failures. ###
+I would also like to invite you to join me on Telegram, where I share my thoughts, victories and failures.  
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grudwald_blog)
 
 <h3 align="left">Languages and Tools:</h3>
