@@ -13,12 +13,6 @@ I would also like to invite you to join me on Telegram, where I share my thought
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grudwald&show_icons=true&theme=dark&locale=en&layout=compact" alt="grudwald" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grudwald&show_icons=true&theme=dark&locale=en" alt="grudwald" /></p>
-
-
-
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
