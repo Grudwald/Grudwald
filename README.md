@@ -25,7 +25,6 @@ I would also like to invite you to join me on Telegram, where I share my thought
 </p>
 
 
-
 - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
