@@ -1,6 +1,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grudwald" alt="grudwald" /></a> </p>
 
+<br>
+
 ### About me:
 
 I started my journey in the IT industry at the age of 11 (I'm now 16) and have been tirelessly improving my skills ever since. In 5 years I have learned many languages and technologies including Python, C#, C, Bash, Lua, JavaScript and of course my favorite Golang.
@@ -11,7 +13,7 @@ On my GitHub profile, you will find examples of my projects that demonstrate my 
 
 I would also like to invite you to join me on Telegram, where I share my thoughts, victories and failures: &nbsp;  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grudwald_blog)
 
-<br><br><br><br>
+<br><br>
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=grudwald&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
