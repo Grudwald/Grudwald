@@ -5,7 +5,7 @@
 
 ### ✍️ About me:
 
-I started my journey in the IT industry at the age of 11 (I'm now 16) and have been tirelessly improving my skills ever since. In 5 years I have learned many languages and technologies including Python, C#, C, Bash, Lua, JavaScript and of course my favorite Golang.
+I started my journey in the IT industry at the age of 11 (I'm 16 now) and since then I've been tirelessly improving my skills. I've been working tirelessly to improve my skills. In 5 years, I have learned many languages and technologies such as Python, C#, C, Bash, Lua, JavaScript and of course, my favorite, Golang.
 
 Currently, I am most interested in backend development and am constantly working to expand my knowledge and practical skills in this area. I am passionate about building efficient and reliable server-side applications that keep interactive products running smoothly.
 
